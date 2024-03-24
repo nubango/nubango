@@ -9,13 +9,13 @@
 [COMMENT]: <> (---https://shields.io/badges---)
 
 <div id="link_badges" align="center">
-  <a href="https://www.linkedin.com/in/nuria-bango/">
-    <img src="https://img.shields.io/badge/portfolio_web-red?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=181717&color=181717" alt="Gmail Badge"/>
+  <a href="https://nubango.github.io/">
+    <img src="https://img.shields.io/badge/portfolio_web-red?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=181717&color=181717" alt="Web Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/nuria-bango/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/nuria-bango/">
+  <a href="https://drive.google.com/file/d/1fOWTSHUc8POcqQM-aFxKG0VwjguPP8Zr/view">
     <img src="https://img.shields.io/badge/DOWNLOAD CV-blue?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=F71735&color=F71735" alt="CV Badge"/>
   </a>
 </div>
