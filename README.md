@@ -30,7 +30,7 @@
 
 - 🎮 I'm a Video Game Developer from Spain
 
-- 🤡 This repository was created at the university and obviusly I have embarrassing private projects
+- 🤡 This repository was created at the university and obviously I have embarrassing private projects
 
 - 🎩 One of my favourite videogame sagas of all time is Professor Layton
 
@@ -47,10 +47,10 @@
 ### in case you don't want to check my LinkedIn or download my CV from above
 
 <details>
-<summary>  my skills and other serious info [click to open/close]</summary>
+<summary>  quick summary of my skills and other serious info [click to open/close]</summary>
 
 ## 📚 Studies
-
+   
  - **Degree in Video Game Development** | Universidad Complutense de Madrid
 
  - **Course in Quality Control and Testing in Video Games** | Narratech Laboratories x UCM
@@ -84,15 +84,23 @@
     ![Android Studio](https://img.shields.io/badge/Android_studio-3DDC84?style=for-the-badge&logo=android&logoColor=white)
     ![Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
     ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+
+  <br>
+
+- **Others**:
+
+    ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+    ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=fff)
+    ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
     
 
 ## 👥 Soft Skills
 
-- **Collaborative**: effective teamwork, enhancing cooperation
+- **Collaborative**: enhancing teamwork through empathy to achieve shared goals
 
-- **Proactive**: motivated to learn and with constant curiosity
+- **Problem-solver**: facing challenges with organisation and concentration
 
-- **Creative**: bringing artistic vision and design skills
+- **Innovative thinker**: applying creative vision to develop unique solutions
 
 ## 💬 Languages
 
